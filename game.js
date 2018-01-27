@@ -1,1 +1,1 @@
-
+exports.possibleWords = ["doomfist", "genji", "mccree", "pharah", "reaper", "sombra", "tracer", "bastion", "hanzo", "junkrat", "mei", "torbjorn", "widowmaker", "dva", "orisa", "reinhardt", "roadhog", "winston", "zarya", "ana", "lucio", "mercy", "moira", "symmetra", "zenyatta"]
